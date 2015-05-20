@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/guava-18.0-2.jar"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/guava-gwt-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/java-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shiva/Documents/workspace/ShureChannels/src/Jars/testng-6.8.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
